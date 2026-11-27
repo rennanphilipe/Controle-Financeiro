@@ -1,0 +1,6 @@
+node_modules/
+.env
+dadosdados-reais/
+
+
+# Nesse arquivo estao as pastas que nao subirao para o github
